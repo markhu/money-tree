@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.org/GemHQ/money-tree.png)](https://travis-ci.org/GemHQ/money-tree) [![Coverage Status](https://img.shields.io/coveralls/GemHQ/money-tree.svg)](https://coveralls.io/r/GemHQ/money-tree?branch=master) [![Code Climate](https://codeclimate.com/github/GemHQ/money-tree.png)](https://codeclimate.com/github/GemHQ/money-tree) [![Gem Version](https://badge.fury.io/rb/money-tree.png)](http://badge.fury.io/rb/money-tree)
+[![Build Status](https://travis-ci.org/GemHQ/money-tree.png)](https://travis-ci.org/GemHQ/money-tree) [![Coverage Status](https://img.shields.io/coveralls/GemHQ/money-tree.svg)](https://coveralls.io/r/GemHQ/money-tree?branch=master) [![Code Climate](https://codeclimate.com/github/GemHQ/money-tree.png)](https://codeclimate.com/github/GemHQ/money-tree) [![Gem Version](https://badge.fury.io/rb/money-tree.png)](http://badge.fury.io/rb/money-tree) [![Known Vulnerabilities](https://snyk.io/test/github/markhu/money-tree/badge.svg?targetFile=Gemfile.lock)](https://snyk.io/test/github/markhu/money-tree?targetFile=Gemfile.lock)
 # MoneyTree
 ### RSpec tested. Big Brother removed.
 
 MoneyTree is a Ruby implementation of Bitcoin Wallets. Specifically, it supports [Hierachical Deterministic wallets](https://en.bitcoin.it/wiki/Deterministic_Wallet) according to the protocol specified in [BIP0032](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki).
 
 ___
-If you find this helpful, please consider a small Bitcoin donation to 1nj2kie1hATcFbAaD7dEY53QaxNgt4KBp
+If you find this helpful, please consider a small Bitcoin donation to `1nj2kie1hATcFbAaD7dEY53QaxNgt4KBp`
 
 ![Donate BTC](https://raw.github.com/wink/money-tree/master/donation_btc_qr_code.gif)
 ___
